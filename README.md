@@ -1,2 +1,2 @@
 # My-first-repo
-My first repositório aula on line 
+Meu primeiro ropositorio de aula on line
